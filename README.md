@@ -4,4 +4,4 @@
 
 # Welcome on my Git 
 
-## i am currently studing Game devlopement at [ISART DIGITAL](https://www.isart.fr/) (Game Programing 3 year)   
+## i am currently studing Game devlopement at [ISART DIGITAL](https://www.isart.fr/) (Game Programing Master 1)   
